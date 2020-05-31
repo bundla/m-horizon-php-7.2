@@ -1,0 +1,10 @@
+version: "1"
+print:
+  - "URL path: /horizon"
+service:
+  horizon:
+    image: tgaru/bundla-php:7.2
+    volumes:
+      - ./src:/var/www/html
+    environment:
+      CONTAINER_ROLE: horizon
