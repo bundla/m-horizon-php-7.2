@@ -4,7 +4,7 @@ Docker Compose module for the project [Bundla](https://github.com/tgaru/bundla).
 
 ## Specifications
 
-**Module-key:** `bundla/m-nginx-latest`
+**Module-key:** `bundla/m-horizon-php-7.2`
 
 **Image based:** [tgaru/bundla-php:7.2](https://hub.docker.com/r/tgaru/bundla-php)
 
